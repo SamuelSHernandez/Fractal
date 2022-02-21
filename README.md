@@ -1,6 +1,3 @@
-# fractals
+# Fractals
 
 Generating fractals with python.
-
-Fractals generated:
-- Mandelbrot Set
